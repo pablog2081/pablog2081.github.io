@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.pablog2081.viernesdemiyes",
+        "sha256_cert_fingerprints": ["D0:73:37:1F:5D:94:38:8E:6C:13:8C:33:C3:FD:05:5C:D6:DE:99:21:0E:44:8A:F8:39:1D:57:2E:80:E9:DE:94"]
+      }
+    }]
